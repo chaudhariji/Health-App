@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-generativeai
+Pillow
+pytz
+streamlit-mic-recorder
